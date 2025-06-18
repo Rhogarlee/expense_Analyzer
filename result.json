@@ -1,0 +1,57 @@
+{
+  "structured_data": {
+    "merchant_info": {
+      "name": "Green Field",
+      "address": "5305 E PACIFIC COAST HWY, Long Beach, CA 90804, USA",
+      "phone": "(562) 499-0900"
+    },
+    "transaction_info": {
+      "date": "May 26, 2016",
+      "time": "12:53:10 PM",
+      "receipt_number": "5992"
+    },
+    "items": [
+      {
+        "description": "Coffee",
+        "quantity": 1,
+        "unit_price": null,
+        "total_price": null
+      },
+      {
+        "description": "Lunch",
+        "quantity": 2,
+        "unit_price": null,
+        "total_price": null
+      },
+      {
+        "description": "Coke",
+        "quantity": 45.0,
+        "unit_price": null,
+        "total_price": null
+      }
+    ],
+    "price_summary": {
+      "subtotal": null,
+      "tax": 5.1,
+      "total": 56.58,
+      "discounts": null
+    },
+    "payment_info": {
+      "method": null,
+      "card_last_four": null,
+      "authorization_code": null
+    },
+    "other_info": {
+      "refund_policy": "No Refund",
+      "members": "No Refund",
+      "promotions": "No Refund",
+      "discounts": "No Refund",
+      "promos": "No Refund",
+      "loyalty_program": "No Refund"
+    }
+  },
+  "analysis": {
+    "category": "餐飲",
+    "anomalies_detected": []
+  }
+}
